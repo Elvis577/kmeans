@@ -14,3 +14,10 @@ public void feature1(){
 public void feature2(){
     s2
         }
+
+public void feature3(){
+        s1
+        }
+public void feature4(){
+        s2
+        }
